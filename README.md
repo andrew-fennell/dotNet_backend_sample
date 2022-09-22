@@ -1,9 +1,9 @@
 # Levvel Technical Interview
 
 ## Project Setup
-- Fork the repository and clone the repository to your local machine.  Documentation on how to do this https://docs.github.com/en/get-started/quickstart/fork-a-repo
-- open the project locally
-- Create a branch using the naming convention **yourFirstName_yourLastName**. This is where you work should be saved.
+- Fork the repository and clone it to your local machine. For documentation on how to do this, please visit: https://docs.github.com/en/get-started/quickstart/fork-a-repo
+- Open the project locally
+- Create a new branch in the newly forked repo using the naming convention **yourFirstName_yourLastName**. This is where your work should be saved.
 - Run the project from the LvvlStarterNetApi.Api folder using `dotnet run` 
 - The application will start on [http://localhost:5000](http://localhost:5000)
 
@@ -29,8 +29,6 @@ You should add two new endpoints.
 Under the resources folder are example json files for both a Blog and a Comment.
 
 Feel free to modify existing files or create new files.  You may add new dependencies if you choose. Please follow the conventions in place throughout the project.
-
-**Please spend no more than 4 hours on this task**
 
 
 ## Connecting to the Database
@@ -59,4 +57,4 @@ Mongo - https://docs.mongodb.com/guides/server/install/ : https://docs.mongodb.c
 ## Submitting Your Work (IMPORTANT)
 When you are finished, create a Pull Request in Github for the forked repository. This Pull Request should compare your created branch to the **main** branch. Email the link to your Pull Request to nicole.niemczycki@endava.com **at least 24 hours prior to your technical interview**
 
-Please make sure your Pull Request is for your forked repo, NOT the original repo
+Again, please make sure your Pull Request is comparing the new branch you created on your forked repo to the *main* branch on your forked repo. The initial repository you forked off of should NOT be referenced.
